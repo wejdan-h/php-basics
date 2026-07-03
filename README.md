@@ -2,7 +2,7 @@
 A collection of beginner PHP projects focused on handling HTML forms and processing user input.
 
 ## Projects
-- Subject Details Form
+- Course Details Form
 - Order Form
 
 ## Technologies Used
